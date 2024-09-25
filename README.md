@@ -3,7 +3,8 @@
 ### 1. Choose among the following problems/games that are commonly resolved efficiently through artificial intelligence (AI) strategies and techniques.
 - The 8-puzzle
 - Chess
-- Water Jug Problem	Tower of Hanoi
+- Water Jug Problem
+- Tower of Hanoi
 - Traveling Salesman Problem
 - Checkers
 
